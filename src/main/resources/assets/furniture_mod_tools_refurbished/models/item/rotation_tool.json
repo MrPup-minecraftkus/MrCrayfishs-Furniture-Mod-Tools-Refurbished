@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "furniture_mod_tools_refurbished:item/rotation_tool"
+  }
+}

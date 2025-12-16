@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": "furniture_mod_tools_refurbished:break_tool",
+    "B": "furniture_mod_tools_refurbished:rotation_tool",
+    "C": "minecraft:copper_ingot",
+    "D": "minecraft:string"
+  },
+  "pattern": [
+    "DDD",
+    "ACB",
+    "DDD"
+  ],
+  "result": {
+    "count": 1,
+    "id": "furniture_mod_tools_refurbished:multi_tool"
+  }
+}
